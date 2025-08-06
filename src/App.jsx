@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50">
       <h1 className="text-3xl text-amber-700 text-center mb-6">
-        Download the Sahipe App
+        Download Sahipe App
       </h1>
 
       <button
